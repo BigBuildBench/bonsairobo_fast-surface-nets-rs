@@ -1,0 +1,14 @@
+[package]
+name = "fast-surface-nets-examples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[example]]
+name = "render"
+path = "render/main.rs"
+
+[[example]]
+name = "rayon-chunks"
+path = "rayon-chunks/main.rs"

@@ -1,0 +1,6 @@
+Cargo.lock
+**/target
+**/sphere.obj
+**/cube.obj
+**/link.obj
+**/mesh.obj
